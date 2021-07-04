@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Daniil fullstack-dev mern",
+  "mongoUri":"mongodb+srv://keil:1234zx@cluster0.k0gix.mongodb.net/myFirstDatabase?retryWrites=true&w=majority\n\n",
+  "baseUrl": "http://localhost:5000"
+}
